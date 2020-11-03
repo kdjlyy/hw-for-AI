@@ -127,3 +127,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# kdjlyy
+/*
+!.gitignore
+!LICENSE
+!README.md
+!/hw1/02_end_to_end_machine_learning_project.ipynb
+!/hw1/hw1.py
+!/hw1/作业01_徐智沛.SA20225525.pdf
+################
+!/hw2/04_training_linear_models.ipynb
+!/hw2/hw2_SA20225525.ipynb
+!/hw2/作业02_徐智沛.SA20225525.pdf
