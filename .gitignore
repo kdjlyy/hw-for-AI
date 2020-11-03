@@ -130,6 +130,7 @@ dmypy.json
 
 # kdjlyy
 /*
+/.git
 !.gitignore
 !LICENSE
 !README.md
