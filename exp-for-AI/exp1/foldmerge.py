@@ -1,3 +1,9 @@
+# -- kdjlyy 11/5/2020-- #
+
+# -------- Usage -------- #
+# - Step1: 建立一个dataset文件夹, 绝对路径替换第12行的datasetPath，合并后的训练集、验证集的图片、标签都在该目录下。
+# - Step2: 将训练集目录的绝对路径替换第11行的filePath，运行第一次，生成了训练集的标签，并将训练集的图片和标签copy到创建的dataset文件夹。
+# - Step3: 将验证集目录的绝对路径替换第11行的filePath，运行第二次，同上。
 import os
 import shutil
 
@@ -8,9 +14,6 @@ datasetPath = r'C:\Users\kdjlyy\Desktop\courses\人工智能2020\experiment\data
 # 6149*2 = 12298
 # 12298 + 1020*2 = 12298 + 2040 = 14338
 # enjoy!
-
-# filePath = r'C:\Users\kdjlyy\Desktop\codes\PythonCode\foldtest'  # 数据文件夹
-# datasetPath = r'C:\Users\kdjlyy\Desktop\codes\PythonCode\dataset'  # 合并后的文件夹（需提前创建）
 
 def CreateDir(path):
     isExists=os.path.exists(path)
