@@ -132,7 +132,7 @@ dmypy.json
 hw1/*
 hw2/*
 hw3/*
-exp-for_AI/exp1/*
+exp1/*
 !hw1/02_end_to_end_machine_learning_project.ipynb
 !hw1/hw1.py
 !hw1/作业01_徐智沛.SA20225525.pdf
@@ -140,5 +140,5 @@ exp-for_AI/exp1/*
 !hw2/hw2_SA20225525.ipynb
 !hw2/作业02_徐智沛.SA20225525.pdf
 !hw3/hw3_v2.ipynb
-!exp-for_AI/exp1/foldmerge.py
-!exp-for_AI/exp1/exp1.pdf
+!exp1/foldmerge.py
+!exp1/exp1.pdf
