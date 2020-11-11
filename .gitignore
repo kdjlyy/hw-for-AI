@@ -132,6 +132,7 @@ dmypy.json
 hw1/*
 hw2/*
 hw3/*
+exp-for_AI/exp1/*
 !hw1/02_end_to_end_machine_learning_project.ipynb
 !hw1/hw1.py
 !hw1/作业01_徐智沛.SA20225525.pdf
